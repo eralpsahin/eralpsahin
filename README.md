@@ -5,3 +5,6 @@
 -  💻 I’m currently working at [@amzn](https://github.com/amzn).
 -  🎓 I've recently received my master's degree from [Penn State](https://www.psu.edu/).
 - ⚡ Fun fact: I drove 2600 miles from Pennsylvania to Washington to start working remotely. It was fun!
+-  📬 Reach out to me
+    * [Twitter](https://twitter.com/eralpsah) 
+    * [LinkedIn](https://www.linkedin.com/in/eralpsahin)
